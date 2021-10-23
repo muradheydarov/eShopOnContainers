@@ -37,7 +37,7 @@
     "@angular/platform-browser-dynamic": "^4.0.0",
     "@angular/router": "^4.0.0",
     "@aspnet/signalr": "1.0.0-preview2-final",
-    "@ng-bootstrap/ng-bootstrap": "1.0.0-alpha.22",
+    "@ng-bootstrap/ng-bootstrap": "1.1.2",
     "bootstrap": "4.0.0-alpha.5",
     "core-js": "^2.4.1",
     "file-loader": "0.9.0",
