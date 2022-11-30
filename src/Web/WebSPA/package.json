@@ -40,7 +40,7 @@
     "@ng-bootstrap/ng-bootstrap": "1.0.0-alpha.22",
     "bootstrap": "4.0.0-alpha.5",
     "core-js": "^2.4.1",
-    "file-loader": "0.9.0",
+    "file-loader": "0.10.1",
     "font-awesome": "4.6.3",
     "isomorphic-fetch": "2.2.1",
     "ng2-toastr": "^4.1.2",
